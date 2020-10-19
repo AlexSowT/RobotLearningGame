@@ -14,5 +14,5 @@ When one team wins, the losing team generates a new gene, and the winning team r
 
 In this way, the two teams move towards the optimum balance of growth vs control.
 
-![Screenshot of game](./robot.png)
+![Screenshot of game](/robot1.png)
 Format: ![Alt Text](url)
